@@ -1,0 +1,28 @@
+h1 {
+    color: orange;
+}
+
+h2 {
+    color: #64FF33;
+}
+
+h3 {
+    color: rgb(106, 90, 205);
+}
+
+h4 {
+    color: hsl(179, 100%, 50%);
+}
+
+.first-heading {
+    background-color: aquamarine;
+}
+.second-heading {
+    background-color: #3399FF;
+}
+.third-heading {
+    background-color: rgb(251, 255, 0);
+}
+.fourth-heading {
+    background-color: rgba(221, 0, 255, 0.995);
+}
